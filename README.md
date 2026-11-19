@@ -5,7 +5,7 @@
 B.Tech Computer Science graduate from Hyderabad, Telangana. I enjoy solving real-world problems with software, and I'm looking for an entry-level role in **software development, data engineering or IT**.
 
 🌐 **Portfolio:** [akshitha953.github.io/portfolio](https://akshitha953.github.io/portfolio/)
-💼 **LinkedIn:** [Manala Akshitha](https://www.linkedin.com/in/manala-akshitha9b5bb410)
+💼 **LinkedIn:** [Manala Akshitha](https://www.linkedin.com/in/manalaakshitha)
 📧 **Email:** [manalaakshitha@gmail.com](mailto:manalaakshitha@gmail.com)
 
 ---
@@ -50,4 +50,4 @@ B.Tech Computer Science graduate from Hyderabad, Telangana. I enjoy solving real
 
 ---
 
-⭐ Thanks for visiting! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manala-akshitha9b5bb410).
+⭐ Thanks for visiting! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manalaakshitha).
